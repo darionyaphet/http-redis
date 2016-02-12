@@ -1,0 +1,27 @@
+{
+  "name": "http-redis",
+  "version": "0.0.1",
+  "description": "Node's Http Redis Proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darionyaphet/http-redis.git"
+  },
+  "keywords": [
+    "Node",
+    "Http",
+    "Redis"
+  ],
+  "author": "darion.yaphet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darionyaphet/http-redis/issues"
+  },
+  "homepage": "https://github.com/darionyaphet/http-redis#readme",
+  "dependencies": {
+    "redis": "^2.4.2"
+  }
+}
